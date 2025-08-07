@@ -73,6 +73,17 @@
 
 ---
 
+### 🧠 Competitive Programming
+
+<p align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Dharshini_Sankar?theme=dark&ext=heatmap&font=Fira%20Code)](https://leetcode.com/Dharshini_Sankar/)
+
+</p>
+
+
+---
+
 ### 📌 GitHub Pinned Repos
 
 - 🔗 [**Smart Budget Tracker**](#)
