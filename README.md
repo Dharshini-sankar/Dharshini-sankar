@@ -55,8 +55,6 @@
   Interactive animated landing page using **GSAP** with scroll-based parallax and smooth transitions.  
   _Tech: HTML • CSS • GSAP_
 
-- 🔹 **Zoho CRM & Inventory Automation**  
-  Automated business workflows and role-based logic using **Deluge scripting** during internship at Linz Technologies.
 
 ---
 
