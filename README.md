@@ -1,5 +1,11 @@
 <h1 align="center">Hey there! 👋 I'm Dharshini S</h1>
-<h3 align="center">Software Engineering Student | Full Stack Developer | Tech Explorer</h3>
+
+<p align="center">
+  <strong>Software Engineering Student | Tech Explorer | Creative Coder</strong><br>
+  <img src="https://komarev.com/ghpvc/?username=Dharshini-sankar&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+
 
 ---
 
